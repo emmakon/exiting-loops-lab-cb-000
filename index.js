@@ -9,7 +9,9 @@ function breakOut(array, changeValue, stopValue) {
 }
 
 function keepGoing(array, changeValue, skipValue) {
-  
+  for (let i = 0; i <array.lenght; i++) {
+    
+  }
 }
 
 function findBy(array, findFn) {
